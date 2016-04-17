@@ -1,2 +1,6 @@
 # hello-world
-Just a short description
+
+Hi everybody!
+
+I'm Getianqi. I like node.js and bootstrap.
+This is the first github project for me.
